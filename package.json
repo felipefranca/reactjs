@@ -1,0 +1,19 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "Learning reactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefranca/reactjs.git"
+  },
+  "author": "Felipe França",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipefranca/reactjs/issues"
+  },
+  "homepage": "https://github.com/felipefranca/reactjs#readme"
+}
